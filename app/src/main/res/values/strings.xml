@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gestor incidencies</string>
+    <string-array name="Urgencia">
+        <item>Alta</item>
+        <item>Mitjana</item>
+        <item>Baixa</item>
+    </string-array>
+</resources>
